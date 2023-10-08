@@ -19,4 +19,4 @@ Proyek ini berisi sumber kode untuk klien dan server SOAP yang menggunakan NuSOA
 1. Clone repositori ini ke direktori lokal Anda:
 
    ```bash
-   git clone https://github.com/username/repo-nusoap.git
+   git clone https://github.com/callmedonn/nusoap-client-server.git
